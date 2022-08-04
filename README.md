@@ -1,2 +1,1 @@
-# PythonProjects
-Hacking away
+Creating cool Python Projects
